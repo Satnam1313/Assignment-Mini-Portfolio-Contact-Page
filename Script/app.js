@@ -5,8 +5,8 @@
  * StudentID: 300875942
  * @date June 9, 2016
  * 
- * git hub:
- * website:
+ * git hub:https://github.com/Satnam1313/Assignment-Mini-Portfolio-Contact-Page
+ * website:http://assignment-mini-portfolio-extended.azurewebsites.net/
  * @description: This file icontaing the main javascript file for the web site
  */
 
