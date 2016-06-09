@@ -65,19 +65,19 @@
      */
     function showFormInput() {
         console.log("++++++++++++++++++++++++++++++++");
-        console.log("First Name: " + firstName.value);
+        console.log("*First Name: " + firstName.value+"*");
         console.log("++++++++++++++++++++++++++++++++");
         console.log("++++++++++++++++++++++++++++++++");
-        console.log("Last Name: " + lastName.value);
+        console.log("*Last Name: " + lastName.value+"*");
         console.log("++++++++++++++++++++++++++++++++");
         console.log("++++++++++++++++++++++++++++++++");
-        console.log("Email ID: " + email.value);
+        console.log("*Email ID: " + email.value+"*");
         console.log("++++++++++++++++++++++++++++++++");
         console.log("++++++++++++++++++++++++++++++++");
-        console.log("Contact Number: " + contactNumber.value);
+        console.log("*Contact Number: " + contactNumber.value+"*");
         console.log("++++++++++++++++++++++++++++++++");  
         console.log("++++++++++++++++++++++++++++++++");
-        console.log("Message: " + message.value);
+        console.log("*Message: " + message.value+"*");
         console.log("++++++++++++++++++++++++++++++++");      
     }
     
